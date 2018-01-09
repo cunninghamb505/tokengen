@@ -1,0 +1,23 @@
+{
+  "name": "zoomtokengen",
+  "version": "1.0.0",
+  "description": "Generate Token for Zoom API",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cunninghamb505/tokengen.git"
+  },
+  "author": "Brandon Cunningham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cunninghamb505/tokengen/issues"
+  },
+  "homepage": "https://github.com/cunninghamb505/tokengen#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "jsonwebtoken": "^8.1.0"
+  }
+}
